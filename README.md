@@ -50,5 +50,5 @@ The ETL process involves the following steps:
     - Created SSIS packages to automate the ETL process.
     - Implemented data flow tasks to extract data from AdventureWorks2014.
     - Applied necessary transformations (e.g., data cleaning, formatting).
-    - Loaded transformed data into the dimension and fact tables.
+    - Loaded transformed data into the dimension and fact tables using incremental load.
 
